@@ -1,1 +1,1 @@
-Day 1: Setup complete.
+Day 1: Setup complete.Day 2: new git commands cause I had to redo it
